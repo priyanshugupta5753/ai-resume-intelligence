@@ -87,10 +87,4 @@ docker-compose up --build
 - `docker-compose.yml`: Orchestration for one-click deployment.
 
 ---
-
-## ✉️ Contact
-**Project Lead** - [Gawali Shruti]
-**Project Link**: [https://github.com/Gawali-Shruti/Ai-resume-intelligence-and-interview-predictor](https://github.com/Gawali-Shruti/Ai-resume-intelligence-and-interview-predictor)
-
----
 *Built with passion for the future of recruitment.*
