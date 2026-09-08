@@ -1,0 +1,76 @@
+# Dependencies
+**/node_modules
+**/dist
+**/dist-ssr
+**/*.local
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/pnpm-debug.log*
+
+# OS and Editors
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.venv/
+**/venv/
+**/env/
+**/ENV/
+
+# Django
+**/db.sqlite3
+**/db.sqlite3-journal
+**/media/
+**/static/
+**/staticfiles/
+
+# Testing and Coverage
+**/htmlcov/
+**/.tox/
+**/.nox/
+**/.coverage
+**/.coverage.*
+**/.cache
+**/nosetests.xml
+**/coverage.xml
+**/*.cover
+**/*.py,cover
+**/.hypothesis/
+**/.pytest_cache/
+**/pytestdebug.log
+
+# Frontend Cache
+**/.eslintcache
+**/.parcel-cache
+**/.vite
+**/.next
+**/npm-debug.log*
+
+# Docker
+.docker_id
+.docker_metadata
+
+# Project Specific
+.venv/
+venv/
+node_modules/
+dist/
